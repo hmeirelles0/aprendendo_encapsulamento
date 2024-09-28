@@ -8,4 +8,4 @@
 
   O resultado deste cálculo é retornado em um elemento ```label``` de outro formulário, que receberá a operação por extenso + seu resultado após o clique de um botão.
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+<p>![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)</p>
