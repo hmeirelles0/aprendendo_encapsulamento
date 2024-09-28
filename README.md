@@ -7,5 +7,8 @@
   Neste caso, foi desenvolvida uma calculadora simples, apresentando dois formulários: o primeiro contém campos onde o usuário registra os números que deseja calcular e um operador de uma das 4 operações matemáticas soma, subtração, multiplicação e divisão. Há também um botão, o qual o clique envia as informações registradas para uma classe contendo métodos que processam este envio, realizando o cálculo.
 
   O resultado deste cálculo é retornado em um elemento ```label``` de outro formulário, que receberá a operação por extenso + seu resultado após o clique de um botão.
+<div style="text-align: center">
 
-<p>![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)</p>
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+</div>
+
